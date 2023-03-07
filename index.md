@@ -1,5 +1,5 @@
 ---
-title: <enter your title here>
+title: <My Resume>
 layout: default
 nav_order: 1
 ---
