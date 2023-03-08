@@ -1,3 +1,8 @@
+TITLE
+How to host your resume on Github using Markdown file 
+
+PRESEQUITE
+
 Firstly, to create your resume and have it on the internet as a static website, you need to use Github Desktop, Github website and Visual Studio Code.
 
 Click here to download Visual Studio Code.  *** Add link to download Visual Studio Code ***
@@ -6,6 +11,11 @@ Click here to download GitHub Desktop. ***Add link to download GitHub Desktop.**
 
 Click here to login or sign up account on Github.  ***Add link to login or sign up account on Github. ***
 
+PURPOSE
+
+This README file is to desscribe the practical steps of how to host and format a resume using the software stack
+you used for this assignment and relate the practical steps described above to the general principles of current Technical
+Writing, as explained in Andrew Etter's book Modern Technical Writing.
 
 After completing all setup steps above, you can need to create a resporitory with specific name. The resporitory's name will be YourUserAccount.github.io
 
