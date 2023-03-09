@@ -37,25 +37,25 @@ Fourth year Computer Science student at University of Manitoba. Passionate Phone
 
 ### Work Experience
 
-Part time Canadian Tire Gas+ sale associate
-Canadian Tire Gas+ 
-April 2022 to the present
+#### Part time sale associate
+#### Canadian Tire Gas+ 
+#### April 2022 to the present
 - Assist customer with questions related to lotteries, gas and car accessories
 - Count inventory of items in store and handle cash register
 - Provide customer with great experiences and services
 
 
-Part time E-commerce Team Member
-Parian Logistic
-May 2020 to Jan 2022
+#### Part time E-commerce Team Member
+#### Parian Logistic
+#### May 2020 to Jan 2022
 - Used computer to create shipping label for parcels for customer
 - Helped customer to track their parcels when they have questions
 - Packed customer's items for delivery
 - Sorted all items into separate order for each customer by warehouse scanner
 
-Full time Manager Assistant
-The Mobile Shop
-November 2017 to March 2020
+#### Full time Manager Assistant
+#### The Mobile Shop
+#### November 2017 to March 2020
 - Processed activation and hardware upgrade for Wireless Customer with multi cellphone carriers through carrier's
 website with carriers such as Bell, Rogers, Telus, Fido, Virgin Mobile, Lucky Mobile and Koodo
 - Solved the issues for customer with their bills or technical issue with their phones
