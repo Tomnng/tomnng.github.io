@@ -1,9 +1,9 @@
 # Site settings
 title: Resume
 author:
-  name: Evan Will
+  name: your-name
   email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+description: "settings for website"
 
 # Build settings
 remote_theme: jekyll/minima
