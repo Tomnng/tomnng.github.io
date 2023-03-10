@@ -1,6 +1,6 @@
-## HOW TO HOST YOUR RESUME ON GITHUB
+**HOW TO HOST YOUR RESUME ON GITHUB**
 
-**AUDIENCE PROFILE**
+***AUDIENCE PROFILE***
 
 Audience: CS Student
 
@@ -16,7 +16,7 @@ Vocabulary: Simple and not too technical so user without too much prior knowledg
 
 Tone: Polite and Casual to make audience feel comfortable while reading.
 
-**PRESEQUISITES**
+***PRESEQUISITES***
 
 
 Firstly, to create your resume and have it on the internet as a static website, you need to use Github Desktop, Github website and Visual Studio Code.
@@ -27,7 +27,7 @@ Firstly, to create your resume and have it on the internet as a static website, 
 
 [Click here to login or sign up account on Github.](https://github.com/login)
 
-**INSTRUCTIONS**
+***INSTRUCTIONS***
 
 According to Etter's book, I learned several principles about using Markdown. Firstly, Markdown is light weight language and it is popular and fine choice for simple web-based help systems. Second thing is using distributed version control such as Github to edit file and update it to see changes. I find these things useful while making resume hosted online. Another point mentioned in his book is about Jekyll built in Github. Jekyll makes Markdown file to represent as static website.
 
@@ -69,12 +69,17 @@ After cloning the resporitory, you can open the folder storing that resporitory 
 
 
 
-title: Resume
-author:
-  name: your-name
-  email: your-email@domain.com
-description: "settings for website"
-remote_theme: jekyll/minima
+****title: Resume****
+
+****author: Ton****
+
+  ****name: your-name****
+  
+  ****email: your-email@domain.com****
+  
+****description: "settings for website"****
+
+****remote_theme: jekyll/minima****
 
 
 'index.md' file is the file that you want to type information for your resume. You can use Visual Studio Code software that you installed to open to edit it. You can open the 'index.md' file by follow this step. You need to go to folder where you keep your Github resporitory:
@@ -118,14 +123,14 @@ In the end, your hosted resume will be on the internet through the link above an
 
 <img src="gifs/final.gif" width="900" height="500"/>
 
-**MORE RESOURCES**
+***MORE RESOURCES***
 
 1. [Markdown Tutorial.](https://www.markdowntutorial.com/)
 2. [Link to Etter's book.](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 3. [How to host webite on Github.](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 
 
-**AUTHORS AND ACKNOWLEDGES**
+***AUTHORS AND ACKNOWLEDGES***
 
 Andrew Etters, author of the book Modern Technical Writing.
 
@@ -133,12 +138,12 @@ Hung Lu Dao, my team member for peer reviewing.
 
 PacketCode,Youtube who made the video make instruction to create static website on Github
 
-**FAQs** 
+***FAQs*** 
 
-1. **Question:** Why is Markdown better than a word processor?
+1. ***Question:*** Why is Markdown better than a word processor?
 
-   **Answer:** With Markdown, you do not need to move your mouse to choose options to format your word. You can highlight, attach URL easier with Markdown Language.
+   ***Answer:*** With Markdown, you do not need to move your mouse to choose options to format your word. You can highlight, attach URL easier with Markdown Language.
 
-2. **Question:** Why is my resume not showing up?
+2. ***Question:*** Why is my resume not showing up?
 
-   **Answer:** It will take some time up to 10 minutes for Github to host your resume as a website and show it up on there.
+   ***Answer:*** It will take some time up to 10 minutes for Github to host your resume as a website and show it up on there.
