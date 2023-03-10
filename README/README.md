@@ -23,7 +23,7 @@ Firstly, to create your resume and have it on the internet as a static website, 
 
 **INSTRUCTIONS**
 
-According to Etter's book, I learned several principles about using Markdown. Firstly, Markdown is light weight language and it is popular and fine choice for simple web-based help systems. Second thing is using distributed version control such as Github to edit file and update it to see changes. I find these things useful while making resume hosted online.
+According to Etter's book, I learned several principles about using Markdown. Firstly, Markdown is light weight language and it is popular and fine choice for simple web-based help systems. Second thing is using distributed version control such as Github to edit file and update it to see changes. I find these things useful while making resume hosted online. Another point mentioned in his book is about Jekyll built in Github. Jekyll makes Markdown file to represent as static website.
 
 After setting up everything above, you can [click here to login to your registered Github Account.](https://github.com/login)
 
