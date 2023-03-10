@@ -1,4 +1,4 @@
-##HOW TO HOST YOUR RESUME ON GITHUB
+## HOW TO HOST YOUR RESUME ON GITHUB
 
 **AUDIENCE PROFILE**
 
@@ -138,7 +138,7 @@ PacketCode,Youtube who made the video make instruction to create static website 
 1. **Question:** Why is Markdown better than a word processor?
 
    **Answer:** With Markdown, you do not need to move your mouse to choose options to format your word. You can highlight, attach URL easier with Markdown Language.
-   
+
 2. **Question:** Why is my resume not showing up?
 
    **Answer:** It will take some time up to 10 minutes for Github to host your resume as a website and show it up on there.
