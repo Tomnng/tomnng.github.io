@@ -35,7 +35,7 @@ Fourth year Computer Science student at University of Manitoba. Passionate Phone
 - Convert Englisk spoken words to texts.
 - Write converted texts to text files.
 
-### Work Experience
+## Work Experience
 
 ### Part time sale associate
 #### Canadian Tire Gas+ 
