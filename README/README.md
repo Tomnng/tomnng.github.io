@@ -114,8 +114,9 @@ In the end, your hosted resume will be on the internet through the link above an
 
 **MORE RESOURCES**
 
-1. [Markdown Tutorial.] (https://www.markdowntutorial.com/)
-2. [Link to Etter's book.]
+1. [Markdown Tutorial.](https://www.markdowntutorial.com/)
+2. [Link to Etter's book.](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+3. [How to host webite on Github.](https://www.youtube.com/watch?v=M5mg0r4ajt4)
 
 
 **AUTHORS AND ACKNOWLEDGES**
