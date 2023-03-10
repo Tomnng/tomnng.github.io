@@ -54,17 +54,17 @@ After cloning the resporitory, you can open the folder storing that resporitory 
 
 
 
-****title: Resume****
+**title: Resume**
 
-****author: Ton****
+**author: Ton**
 
-  ****name: your-name****
+  **name: your-name**
   
-  ****email: your-email@domain.com****
+  **email: your-email@domain.com**
   
-****description: "settings for website"****
+**description: "settings for website"**
 
-****remote_theme: jekyll/minima****
+**remote_theme: jekyll/minima**
 
 
 'index.md' file is the file that you want to type information for your resume. You can use Visual Studio Code software that you installed to open to edit it. You can open the 'index.md' file by follow this step. You need to go to folder where you keep your Github resporitory:
