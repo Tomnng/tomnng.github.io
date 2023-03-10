@@ -133,9 +133,12 @@ Hung Lu Dao, my team member for peer reviewing.
 
 PacketCode,Youtube who made the video make instruction to create static website on Github
 
-FAQs 
+**FAQs** 
 
 1. **Question:** Why is Markdown better than a word processor?
-   Answer: With Markdown, you do not need to move your mouse to choose options to format your word. You can highlight, attach URL easier with Markdown Language.
+
+   **Answer:** With Markdown, you do not need to move your mouse to choose options to format your word. You can highlight, attach URL easier with Markdown Language.
+   
 2. **Question:** Why is my resume not showing up?
-   Answer: It will take some time up to 10 minutes for Github to host your resume as a website and show it up on there.
+
+   **Answer:** It will take some time up to 10 minutes for Github to host your resume as a website and show it up on there.
