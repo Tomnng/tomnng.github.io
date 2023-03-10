@@ -122,7 +122,9 @@ In the end, your hosted resume will be on the internet through the link above an
 **AUTHORS AND ACKNOWLEDGES**
 
 Andrew Etters, author of the book Modern Technical Writing.
+
 Hung Lu Dao, my team member for peer reviewing.
+
 PacketCode,Youtube who made the video make instruction to create static website on Github
 
 FAQs 
