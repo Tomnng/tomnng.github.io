@@ -96,3 +96,8 @@ YourUserName.github.io     where YourUserName is your Github name. In my case, m
 If you do not know what your Github name, you click on top right icon as picture below to see your Github name:
 
 ![Alt Text](gifs/github_name.gif)
+
+In the end, your hosted resume will be on the internet through the link above and looks like this:
+
+
+![Alt Text](gifs/final.gif)
