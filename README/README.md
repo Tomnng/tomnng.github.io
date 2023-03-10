@@ -5,9 +5,8 @@
 Audience: CS Student
 Venue: README on Github Pages
 Purpose: Explain how to host a resume on Github Page.
-Additional purpose: Introduce and demonstrate the principles of Andrew Etter's
-book Modern Technical Writing
-Desired Reaction: The person reading this README will understand how to host their resume using Markdown and Github
+Additional purpose: Introduce and demonstrate the principles of Andrew Etter's book Modern Technical Writing.
+Desired Reaction: The person reading this README will understand how to host their resume using Markdown and Github.
 Vocabulary: Simple and not too technical so user without too much prior knowledge can follow.
 Tone: Polite and Casual to make audience feel comfortable while reading.
 
