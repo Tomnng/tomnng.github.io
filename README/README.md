@@ -112,6 +112,10 @@ In the end, your hosted resume will be on the internet through the link above an
 
 <img src="gifs/final.gif" width="900" height="500"/>
 
+**MORE RESOURCES**
+
+1. [Markdown Tutorial.] (https://www.markdowntutorial.com/)
+2. [Link to Etter's book.]
 
 
 **AUTHORS AND ACKNOWLEDGES**
