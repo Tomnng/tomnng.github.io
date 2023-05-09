@@ -14,24 +14,25 @@ Fourth year Computer Science student at University of Manitoba. Passionate Phone
 ## Personal Project
 
 ***Student Life Organizer Android App - written in Java***
-This Android App allows user to do multiple things such as using algorithms to schedule classes, grade requirement for desired final grade.
-It also allows user to add note, reminder, manage courses and sending email at school. Database is used to save data locally. The database is
-created by using HSQLDB.
+  This Android App allows user to do multiple things such as using algorithms to schedule classes, grade requirement for desired final grade.
+  It also allows user to add note, reminder, manage courses and sending email at school. Database is used to save data locally. The database is
+  created by using HSQLDB.
+
 
 ***FAT32 File Reader for terminal - written in C***
-This program allows user to explore the FAT32 file. The user is able to read the details about the FAT32 file such as its size, its content.
-In addition, the user is also able to create new file, modify current file and delete file with commands.
+  This program allows user to explore the FAT32 file. The user is able to read the details about the FAT32 file such as its size, its content.
+  In addition, the user is also able to create new file, modify current file and delete file with commands.
 
 ***Full Stack Game Browser Wesbiste written in Javascript, CSS, HTML, Python***
-The website shows the games in categories. The user is able to search the game by name or gerne. The front end is coded in HTML, CSS and Javascript.
-The back end of the website allows user to save game to buy and retrieve game's details with Python.
+  The website shows the games in categories. The user is able to search the game by name or gerne. The front end is coded in HTML, CSS and Javascript.
+  The back end of the website allows user to save game to buy and retrieve game's details with Python.
 
 ***Automatic Game Accept Bot written in Python***
-The program is able to accept the game match automatically when the user is away the keyboard. It sends the notfication to user's phone when the game
-successfully starts. Everything is written in Python
+  The program is able to accept the game match automatically when the user is away the keyboard. It sends the notfication to user's phone when the game
+  successfully starts. Everything is written in Python
   
 ***Voice Assistant connected to ChatGPT - written in Python***
-This app allows user to ask question by speaking to it. It will respond back after getting information retrieved from Chat GPT by text.
+  This app allows user to ask question by speaking to it. It will respond back after getting information retrieved from Chat GPT by text.
 
 ## Work Experience
 
