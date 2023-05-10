@@ -34,26 +34,27 @@ Fourth year Computer Science student at University of Manitoba. Passionate Phone
   [Github Repository for this project](https://github.com/tonnguyen123/Game-Auto-Match-Accept-Bot)
   
 ***Voice Assistant connected to ChatGPT - written in Python***\
-  This app allows user to ask question by speaking to it. It will respond back after getting information retrieved from Chat GPT by text.
+  This app allows user to ask question by speaking to it. It will respond back after getting information retrieved from Chat GPT by text.\
   Working on it...
 
 ## Work Experience
 
-### Part time sale associate
+### Part time Assistant Manager
 #### Canadian Tire Gas+ 
 #### April 2022 to the present
-- Assist customer with questions related to lotteries, gas and car accessories
-- Count inventory of items in store and handle cash register
-- Provide customer with great experiences and services
+- Coordinated daily customer service operations (e.g. sales processes, orders and payments)
+- Coached and supported new and existing Sales Associates
+- Handled complaints from customers
+- Conducted regular audits to ensure the store is functionable and presentable
 
 
-### Part time E-commerce Team Member
-#### Parian Logistic
-#### May 2020 to Jan 2022
-- Used computer to create shipping label for parcels for customer
-- Helped customer to track their parcels when they have questions
-- Packed customer's items for delivery
-- Sorted all items into separate order for each customer by warehouse scanner
+### Seasonal Product Specialist
+#### PepsiCo 
+#### Sep 2022 to Nov 2022 
+- Answered all product-related questions in a polite manner and addressing queries promptly
+- Attended workshops and refresher courses in sales and marketing.
+- Planed and assisted with new product releases and events
+- Performed product demonstrations for customers, staff, and other stakeholders
 
 ### Full time Manager Assistant
 #### The Mobile Shop
