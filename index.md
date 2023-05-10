@@ -7,7 +7,7 @@ nav_order: 1
 
 ### Profile
 
-Fourth year Computer Science student at University of Manitoba. Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
+Computer Science Graduate at University of Manitoba. Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
 
 ## Personal Project
 
