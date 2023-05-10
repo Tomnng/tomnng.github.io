@@ -8,6 +8,11 @@ nav_order: 1
 ### Profile
 
 Computer Science Graduate at University of Manitoba (2019-2023). Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
+  
+### Contact info
+Email: tomy2802@gmail.com\
+Linkedin Profile: https://www.linkedin.com/in/ton-nguyen-9b0931151/ \
+Phone number: 204-869-4935
 
 ## Personal Project
 
