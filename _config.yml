@@ -6,4 +6,4 @@ author:
 description: "settings for website"
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-cayman
