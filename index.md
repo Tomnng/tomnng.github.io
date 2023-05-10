@@ -7,7 +7,7 @@ nav_order: 1
 
 ### Profile
 
-Computer Science Graduate at University of Manitoba. Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
+Computer Science Graduate at University of Manitoba (2019-2023). Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
 
 ## Personal Project
 
@@ -56,7 +56,7 @@ Computer Science Graduate at University of Manitoba. Passionate Phone softwares 
 - Planed and assisted with new product releases and events
 - Performed product demonstrations for customers, staff, and other stakeholders
 
-### Full time Manager Assistant
+### Full time Assistant Manager
 #### The Mobile Shop
 #### November 2017 to March 2020
 - Processed activation and hardware upgrade for Wireless Customer with multi cellphone carriers through carrier's
