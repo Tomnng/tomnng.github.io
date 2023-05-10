@@ -4,9 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Ton Nguyen
-### tomy2802@gmail.com
-### 204 869 4935
+
 ### Profile
 
 Fourth year Computer Science student at University of Manitoba. Passionate Phone softwares and website programming (front end and back end). Developed several apps for iPhone and Androids, websites and some softwares for my own use.
