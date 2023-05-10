@@ -15,7 +15,7 @@ Fourth year Computer Science student at University of Manitoba. Passionate Phone
   This Android App allows user to do multiple things such as using algorithms to schedule classes, grade requirement for desired final grade.
   It also allows user to add note, reminder, manage courses and sending email at school. Database is used to save data locally. The database is
   created by using HSQLDB.
-[Demo Video of how to use the app] (https://www.youtube.com/watch?v=Gtj1fL2XPpg)\
+[Demo Video of how to use the app](https://www.youtube.com/watch?v=Gtj1fL2XPpg)\
 [Github Repository for this project] (https://github.com/tonnguyen123/Study-Manager)
 
 ***FAT32 File Reader for terminal - written in C***\
